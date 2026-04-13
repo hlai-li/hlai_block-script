@@ -1,0 +1,54 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN"
+ "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg version="1.0" xmlns="http://www.w3.org/2000/svg"
+ width="90.000000pt" height="90.000000pt" viewBox="0 0 90.000000 90.000000"
+ preserveAspectRatio="xMidYMid meet">
+<metadata>
+Created by potrace 1.16, written by Peter Selinger 2001-2019
+</metadata>
+<g transform="translate(0.000000,90.000000) scale(0.100000,-0.100000)"
+fill="#000000" stroke="none">
+<path d="M154 736 c-3 -8 -1 -23 5 -35 18 -32 13 -76 -12 -112 -13 -19 -42
+-62 -66 -96 -53 -77 -81 -156 -81 -225 0 -76 8 -100 33 -96 19 3 21 10 21 88
+1 72 6 93 29 138 15 28 31 52 35 52 4 0 14 -16 21 -35 21 -60 90 -153 139
+-188 56 -40 129 -70 145 -60 7 5 23 8 37 8 20 0 30 10 48 45 22 43 22 53 20
+285 -3 205 -5 240 -18 240 -13 0 -16 -35 -20 -235 -5 -188 -9 -242 -22 -272
+-10 -21 -20 -38 -23 -38 -3 0 -33 13 -68 28 -94 44 -171 133 -206 244 -11 33
+-10 41 18 91 33 57 39 102 20 156 -12 33 -45 43 -55 17z"/>
+<path d="M593 713 c-7 -2 -13 -13 -13 -24 0 -16 7 -19 45 -19 l45 0 0 -40 c0
+-30 -5 -42 -21 -50 -39 -22 -59 -86 -59 -195 0 -81 -4 -109 -20 -140 -11 -22
+-18 -45 -15 -52 9 -26 35 -12 57 30 18 34 23 65 27 163 4 81 11 127 20 138 16
+19 54 21 69 4 5 -7 12 -65 14 -128 3 -85 8 -124 21 -148 21 -38 73 -74 102
+-70 32 5 23 31 -16 50 -47 22 -59 56 -59 167 0 105 -13 156 -45 177 -20 13
+-25 25 -25 55 l0 39 44 0 c49 0 69 22 36 40 -19 10 -184 13 -207 3z"/>
+</g>
+  <desc>Hlai Block-Script / 方块黎文</desc>
+  <!-- 
+  *************************************************************************
+  [ PROJECT: HLAI BLOCK-SCRIPT ][ LICENSE: CC0 1.0 Universal (Public Domain) ]
+  
+  * ENGLISH DECLARATION *
+  This scalable vector graphic (SVG) is a core component of a custom 
+  typography system designed specifically for the Hlai language (a Kra-Dai 
+  endangered language native to Hainan, China). 
+  
+  It reconstructs the 1957 Latin-based Hlai orthography into a block-style 
+  syllabary, fusing precision with the visual aesthetics of ancient Han 
+  scripts (such as the Bird-Worm Seal Script and Qin Dynasty Small Seal Script).
+  
+  No rights reserved. Anyone is free to copy, modify, distribute, or 
+  perform the work, even for commercial purposes. 
+  
+  May the ancient voices of the Eastern be remembered in the digital age.
+  
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  * 普通话（标准中文）宣言 *
+  📜 方块黎文
+  本矢量字符专为中国海南省濒危少数民族语言「黎语」量身定制。
+  线条美学致敬中国先秦鸟虫篆与秦代小篆，结合方块音节逻辑重构。
+  
+  完全开源，放弃版权。愿古老的东方语言，在数字时代以最美的姿态被铭记。
+  *************************************************************************
+  -->
+</svg>
