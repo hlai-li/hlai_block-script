@@ -1,4 +1,4 @@
-## 📜 方块黎文（Hlai Block-Script）
+## 📜 <img src="svg_files/tone_t.svg" style="height: 1.1em; vertical-align: middle;"><img src="svg_files/tone_un.svg" style="height: 1.1em; vertical-align: middle;"> <img src="svg_files/tone_hl.svg" style="height: 1.1em; vertical-align: middle;"><img src="svg_files/tone_ai.svg" style="height: 1.1em; vertical-align: middle;"> 方块黎文（Hlai Block-Script）
 [![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
 
 尊敬的黎族同胞、语言学研究者及开源社区的朋友们，您好！欢迎来到本存储库！
