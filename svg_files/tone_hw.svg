@@ -1,0 +1,52 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN"
+ "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg version="1.0" xmlns="http://www.w3.org/2000/svg"
+ width="60.000000pt" height="60.000000pt" viewBox="0 0 60.000000 60.000000"
+ preserveAspectRatio="xMidYMid meet">
+<metadata>
+Created by potrace 1.16, written by Peter Selinger 2001-2019
+</metadata>
+<g transform="translate(0.000000,60.000000) scale(0.100000,-0.100000)"
+fill="#000000" stroke="none">
+<path d="M211 579 c-59 -10 -141 -43 -141 -56 0 -26 24 -30 73 -11 31 12 88
+22 140 26 l87 5 0 -67 0 -66 -39 0 c-45 0 -62 16 -70 68 -4 23 -12 37 -21 37
+-19 0 -26 -75 -10 -105 14 -27 68 -50 114 -50 82 0 106 -33 106 -149 0 -74
+-25 -143 -58 -160 -12 -6 -43 -11 -71 -11 -64 0 -87 21 -96 87 -4 26 -8 54
+-10 61 -6 17 -34 15 -41 -2 -10 -27 17 -126 43 -156 24 -29 28 -30 105 -30
+l81 0 37 39 c47 49 65 117 57 207 -7 69 -27 117 -57 137 -17 10 -20 23 -20 80
+0 76 -3 74 79 41 36 -15 51 -11 51 12 0 21 -75 52 -156 64 -80 11 -109 11
+-183 -1z"/>
+<path d="M295 317 c-3 -7 -5 -54 -3 -103 3 -81 5 -89 23 -89 19 0 20 7 20 100
+0 87 -2 100 -18 103 -9 2 -19 -3 -22 -11z"/>
+</g>
+
+  <desc>Hlai Block-Script / 方块黎文</desc>
+  <!-- 
+  *************************************************************************
+  [ PROJECT: HLAI BLOCK-SCRIPT ][ LICENSE: CC0 1.0 Universal (Public Domain) ]
+  
+  * ENGLISH DECLARATION *
+  This scalable vector graphic (SVG) is a core component of a custom 
+  typography system designed specifically for the Hlai language (a Kra-Dai 
+  endangered language native to Hainan, China). 
+  
+  It reconstructs the 1957 Latin-based Hlai orthography into a block-style 
+  syllabary, fusing precision with the visual aesthetics of ancient Han 
+  scripts (such as the Bird-Worm Seal Script and Qin Dynasty Small Seal Script).
+  
+  No rights reserved. Anyone is free to copy, modify, distribute, or 
+  perform the work, even for commercial purposes. 
+  
+  May the ancient voices of the Eastern be remembered in the digital age.
+  
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  * 普通话（标准中文）宣言 *
+  📜 方块黎文
+  本矢量字符专为中国海南省濒危少数民族语言「黎语」量身定制。
+  线条美学致敬中国先秦鸟虫篆与秦代小篆，结合方块音节逻辑重构。
+  
+  完全开源，放弃版权。愿古老的东方语言，在数字时代以最美的姿态被铭记。
+  *************************************************************************
+  -->
+</svg>
