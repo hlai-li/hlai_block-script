@@ -126,8 +126,8 @@
 | <img src="svg_files/tone_q.svg" style="height: 1.8em; vertical-align: middle;" alt="q"> |<img src="svg_files/tone_bh.svg" style="height: 1.8em; vertical-align: middle;" alt="bh"> | <img src="svg_files/tone_dh.svg" style="height: 1.8em; vertical-align: middle;" alt="dh"> | <img src="svg_files/tone_bl.svg" style="height: 1.8em; vertical-align: middle;" alt="bl"> | <img src="svg_files/tone_hl.svg" style="height: 1.8em; vertical-align: middle;" alt="hl"> | <img src="svg_files/tone_dz.svg" style="height: 1.8em; vertical-align: middle;" alt="dz"> |
 | gh | ng | ny | hy | gw | kw |
 | <img src="svg_files/tone_gh.svg" style="height: 1.8em; vertical-align: middle;" alt="gh"> | <img src="svg_files/tone_ng.svg" style="height: 1.8em; vertical-align: middle;" alt="ng"> | <img src="svg_files/tone_ny.svg" style="height: 1.8em; vertical-align: middle;" alt="ny"> | <img src="svg_files/tone_hy.svg" style="height: 1.8em; vertical-align: middle;" alt="hy"> | <img src="svg_files/tone_gw.svg" style="height: 1.8em; vertical-align: middle;" alt="gw"> | <img src="svg_files/tone_kw.svg" style="height: 1.8em; vertical-align: middle;" alt="kw"> |
-| hw | ghw | ngw | ty | uu |   |
-| <img src="svg_files/tone_hw.svg" style="height: 1.8em; vertical-align: middle;" alt="hw"> | <img src="svg_files/tone_ghw.svg" style="height: 1.8em; vertical-align: middle;" alt="ghw"> | <img src="svg_files/tone_ngw.svg" style="height: 1.8em; vertical-align: middle;" alt="ngw"> | <img src="svg_files/tone_ty.svg" style="height: 1.8em; vertical-align: middle;" alt="ty"> | <img src="svg_files/tone_uu.svg" style="height: 1.8em; vertical-align: middle;" alt="uu"> |  |
+| hw | ghw | ngw | ty |   |   |
+| <img src="svg_files/tone_hw.svg" style="height: 1.8em; vertical-align: middle;" alt="hw"> | <img src="svg_files/tone_ghw.svg" style="height: 1.8em; vertical-align: middle;" alt="ghw"> | <img src="svg_files/tone_ngw.svg" style="height: 1.8em; vertical-align: middle;" alt="ngw"> | <img src="svg_files/tone_ty.svg" style="height: 1.8em; vertical-align: middle;" alt="ty"> |  |  |
 
 #### 🔸 韵母部 - A系
 | a | ae | ai | au | am | an |
@@ -166,13 +166,13 @@
 | <img src="svg_files/tone_oem.svg" style="height: 1.8em; vertical-align: middle;" alt="oem"> | <img src="svg_files/tone_oen.svg" style="height: 1.8em; vertical-align: middle;" alt="oen"> | <img src="svg_files/tone_oeng.svg" style="height: 1.8em; vertical-align: middle;" alt="oeng"> | <img src="svg_files/tone_oep.svg" style="height: 1.8em; vertical-align: middle;" alt="oep"> | <img src="svg_files/tone_oet.svg" style="height: 1.8em; vertical-align: middle;" alt="oet"> | <img src="svg_files/tone_oek.svg" style="height: 1.8em; vertical-align: middle;" alt="oek"> |
 
 #### 🔸 韵母部 - U系
-| u | ue | ui | un | ung | up |
+| u | ue | ui | uu | un | ung |
 | --- | --- | --- | --- | --- | --- |
-| <img src="svg_files/tone_u.svg" style="height: 1.8em; vertical-align: middle;" alt="u"> | <img src="svg_files/tone_ue.svg" style="height: 1.8em; vertical-align: middle;" alt="ue"> | <img src="svg_files/tone_ui.svg" style="height: 1.8em; vertical-align: middle;" alt="ui"> | <img src="svg_files/tone_un.svg" style="height: 1.8em; vertical-align: middle;" alt="un"> | <img src="svg_files/tone_ung.svg" style="height: 1.8em; vertical-align: middle;" alt="ung"> | <img src="svg_files/tone_up.svg" style="height: 1.8em; vertical-align: middle;" alt="up"> |
-| ut | uk | uei | uen | ueng | uep |
-| <img src="svg_files/tone_ut.svg" style="height: 1.8em; vertical-align: middle;" alt="ut"> | <img src="svg_files/tone_uk.svg" style="height: 1.8em; vertical-align: middle;" alt="uk"> | <img src="svg_files/tone_uei.svg" style="height: 1.8em; vertical-align: middle;" alt="uei"> | <img src="svg_files/tone_uen.svg" style="height: 1.8em; vertical-align: middle;" alt="uen"> | <img src="svg_files/tone_ueng.svg" style="height: 1.8em; vertical-align: middle;" alt="ueng"> | <img src="svg_files/tone_uep.svg" style="height: 1.8em; vertical-align: middle;" alt="uep"> |
-| uet | uek |  |  |  |  |
-| <img src="svg_files/tone_uet.svg" style="height: 1.8em; vertical-align: middle;" alt="uet"> | <img src="svg_files/tone_uek.svg" style="height: 1.8em; vertical-align: middle;" alt="uek"> |  |  |  |  |
+| <img src="svg_files/tone_u.svg" style="height: 1.8em; vertical-align: middle;" alt="u"> | <img src="svg_files/tone_ue.svg" style="height: 1.8em; vertical-align: middle;" alt="ue"> | <img src="svg_files/tone_ui.svg" style="height: 1.8em; vertical-align: middle;" alt="ui"> | <img src="svg_files/tone_uu.svg" style="height: 1.8em; vertical-align: middle;" alt="uu"> | <img src="svg_files/tone_un.svg" style="height: 1.8em; vertical-align: middle;" alt="un"> | <img src="svg_files/tone_ung.svg" style="height: 1.8em; vertical-align: middle;" alt="ung"> |
+| up | ut | uk | uei | uen | ueng |
+| <img src="svg_files/tone_up.svg" style="height: 1.8em; vertical-align: middle;" alt="up"> | <img src="svg_files/tone_ut.svg" style="height: 1.8em; vertical-align: middle;" alt="ut"> | <img src="svg_files/tone_uk.svg" style="height: 1.8em; vertical-align: middle;" alt="uk"> | <img src="svg_files/tone_uei.svg" style="height: 1.8em; vertical-align: middle;" alt="uei"> | <img src="svg_files/tone_uen.svg" style="height: 1.8em; vertical-align: middle;" alt="uen"> | <img src="svg_files/tone_ueng.svg" style="height: 1.8em; vertical-align: middle;" alt="ueng"> |
+| uep | uet | uek |  |  |  |
+| <img src="svg_files/tone_uep.svg" style="height: 1.8em; vertical-align: middle;" alt="uep"> | <img src="svg_files/tone_uet.svg" style="height: 1.8em; vertical-align: middle;" alt="uet"> | <img src="svg_files/tone_uek.svg" style="height: 1.8em; vertical-align: middle;" alt="uek"> |  |  |  |
 
 #### 🔺 声调
 | -x | -s | -pp | -tt | -kk |  |
